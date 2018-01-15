@@ -5,15 +5,15 @@
   "uploadOnSave": true,
   "useAtomicWrites": false,
   "deleteLocal": false,
-  "hostname": "localhost",
+  "hostname": "127.0.0.1.",
   "port": "8888",
-  "target": "Applications/MAMP/htdocs",
+  "target": "/Users/Josh/Documents/Holmfirth-Dyers",
   "ignore": [
     ".remote-sync.json",
     ".git/**"
   ],
   "username": "josh",
-  "password": "Shijit11",
+  "password": "shijit",
   "watch": [],
   "transport": "scp"
 }
