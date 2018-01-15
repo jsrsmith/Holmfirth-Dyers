@@ -1,0 +1,19 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "localhost",
+  "port": "8888",
+  "target": "Applications/MAMP/htdocs",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "josh",
+  "password": "Shijit11",
+  "watch": [],
+  "transport": "scp"
+}
