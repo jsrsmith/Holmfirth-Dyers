@@ -1,13 +1,19 @@
 
 <?php
-require_once 'defaultSetup.php';
+require_once 'php/defaultSetup.php';
 ?>
 
 <title>Holmfirth Dyers | Home</title>
 
 <!--link to CSS-->
-<link rel="stylesheet" type="text/css" href="index.css">
+<link rel="stylesheet" type="text/css" href="css/index.css">
 
-<!--<img src="images/HDL%20logo.jpg" alt="Holmfirth Dyers Logo" style="max-width:100%;height:auto;">-->
+<div class="container">
+
+  <div class="introduction">
+    <p>Nestled in the heart of the small yorkshire town, Holmfirth Dyers Limited have enjoyed successfulyy finishing purchased man-made fibre and silk broadwaven fabrics for the past 30 years.</p>
+  </div>
+
+</div>
 
 </html>
